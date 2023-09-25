@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "Tinkerpop"
+  description: "Automatically generated package.json, please edit manually"
+  x-cortex-git:
+    github:
+      repository: "JupiterOne/tinkerpop"
+  x-cortex-owners:
+    - type: "group"
+      name: "JupiterOne/tiny-hippocamp"
+  x-cortex-service-groups: "tier-4"
+  x-cortex-tag: "tinkerpop"
