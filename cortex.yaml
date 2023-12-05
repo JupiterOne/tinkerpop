@@ -8,5 +8,6 @@ info:
   x-cortex-owners:
     - type: group
       name: JupiterOne/tiny-hippocamp
-  x-cortex-service-groups: tier-4
   x-cortex-tag: tinkerpop
+  x-cortex-service-groups:
+    - tier-4
