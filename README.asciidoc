@@ -1,3 +1,10 @@
+= DEPRECATED
+
+Only here for historical purposes. Newer versions of the gremlin client support
+all of the featurs that were previous one-off added here. All consumers should
+upgrade to latest versions of upstream. Once all consumers are upgraded, we
+can archive this project.
+
 ////
 Licensed to the Apache Software Foundation (ASF) under one or more
 contributor license agreements.  See the NOTICE file distributed with
